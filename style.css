@@ -1,0 +1,13 @@
+        main {
+            height: 100px;
+            width: 500px;
+            margin: auto;
+        }
+        
+        body {
+            background-image: url(img/FewBlaringCanadagoose-size_restricted.gif);
+        }
+        
+        form {
+            color: antiquewhite;
+        }
